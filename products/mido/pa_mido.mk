@@ -28,6 +28,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 include vendor/pa/config/common_full_phone.mk
 
 TARGET_DISABLES_GMS := true
+PA_VERSION_APPEND_TIME_OF_DAY := true
 
 # Inherit from mido device
 $(call inherit-product, device/xiaomi/mido/device.mk)

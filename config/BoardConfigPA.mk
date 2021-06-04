@@ -1,5 +1,5 @@
 # Kernel
-include vendor/pa/config/BoardConfigKernel.mk
+#include vendor/pa/config/BoardConfigKernel.mk
 
 # QCOM flags
 ifeq ($(call is-vendor-board-platform,QCOM),true)

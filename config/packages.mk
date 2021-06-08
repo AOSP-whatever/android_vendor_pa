@@ -27,7 +27,7 @@ PRODUCT_PACKAGES += \
     ThemePicker
 
 # Camera
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     GoogleCameraGo
 
 # Charger Images

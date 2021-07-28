@@ -27,6 +27,7 @@
         <item>com.google.android.contacts</item>
         <item>com.google.android.deskclock</item>
         <item>com.google.android.dialer</item>
+        <item>com.android.dialer</item>
         <item>com.android.chrome</item>
     </array>
 
